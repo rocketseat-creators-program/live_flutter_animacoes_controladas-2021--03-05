@@ -136,7 +136,6 @@ class _BoardWidgetState extends State<BoardWidget> {
                             return Container(
                               width: 250,
                               height: 50,
-                              color: Colors.red,
                             );
                           },
                           onWillAccept: (data) {
