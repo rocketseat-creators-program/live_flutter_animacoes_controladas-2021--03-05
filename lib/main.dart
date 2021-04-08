@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:live_animacoes_controladas/card/card_trello_widget.dart';
 import 'package:live_animacoes_controladas/draggable/pages/draggable_page.dart';
+import 'package:live_animacoes_controladas/start/start_page.dart';
+import 'package:live_animacoes_controladas/trello/trello_page.dart';
 
 void main() {
   runApp(MyApp());

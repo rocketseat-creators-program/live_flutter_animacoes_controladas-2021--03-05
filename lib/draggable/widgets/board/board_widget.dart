@@ -139,6 +139,7 @@ class _BoardWidgetState extends State<BoardWidget> {
                             );
                           },
                           onWillAccept: (data) {
+                            print(data);
                             return true;
                           },
                           onAccept: (data) {
